@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1742571615 source:c:\projects sdl\demosdl\sdl_utils.cpp
+	"SDL_Utils.h"
+	<iostream>
+
+1742833111 c:\projects sdl\demosdl\sdl_utils.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1742569237 source:c:\projects sdl\demosdl\sdl_renderer.cpp
+	"SDL_Renderer.h"
+	"SDL_Utils.h"
+
+1742569245 c:\projects sdl\demosdl\sdl_renderer.h
+	<SDL.h>
+
+1742569329 source:c:\projects sdl\demosdl\sdl_texturemanager.cpp
+	"SDL_TextureManager.h"
+	<SDL_image.h>
+	<iostream>
+
+1742569313 c:\projects sdl\demosdl\sdl_texturemanager.h
+	<SDL.h>
+	<string>
+
+1743085088 source:c:\projects sdl\demosdl\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"player.h"
+
+1742639919 source:c:\projects sdl\demosdl\character.cpp
+
+1742869470 c:\projects sdl\demosdl\character.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1743084874 source:c:\projects sdl\demosdl\graphics.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+
+1743070015 c:\projects sdl\demosdl\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1742871788 c:\projects sdl\demosdl\defs.h
+
+1743085319 source:c:\projects sdl\demosdl\player.cpp
+	"player.h"
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+
+1743070373 c:\projects sdl\demosdl\player.h
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+
